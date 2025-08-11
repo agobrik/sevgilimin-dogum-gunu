@@ -1,10 +1,10 @@
 {
-  "pageTitle": "Mutlu Yıllar Baba :)",
+  "pageTitle": "Mutlu Yıllar Sevgilim :)",
   "greeting": "Merhaba",
-  "name": "BABA",
+  "name": "Zeliha ya da Nilara mı demeliyim",
   "greetingText": "Bil bakalım ne oldu?",
-  "wishText": "Doğum günün kutlu olsun, nice mutlu senelere inşallah baba",
-  "imagePath": "public/img/babam.png",
+  "wishText": "Doğum günün kutlu olsun, nice mutlu birlikte senelere birtanemi",
+  "imagePath": "public/img/sevgilim.png",
   "text1": "Bugün seni sevdiğimi tekrardan diyebileceğim özel bir gün!",
   "textInChatBox": "Doğum günün kutlu olsun!! Nice mutlu bilmem ne...",
   "sendButtonLabel": "Gönder",
@@ -21,7 +21,7 @@
   "bigTextPart3": "N",
   "bigTextPart4": "İ",
   "wishHeading": "MUTLU YILLAR!!",
-  "outroText": "Seni çok seviyorum :)))",
+  "outroText": "Seni çooooooooook seviyorum :)))",
   "replayText": "Tekrar izlemek istiyorsan tıklayabilirsin",
   "outroSmiley": ":)"
 }
